@@ -1,4 +1,4 @@
-# libuv-process-bug
+# libuv-process-bug ([issue](https://github.com/libuv/libuv/issues/1731))
 A demonstration for a bug in libuv
 
 ## How to run
